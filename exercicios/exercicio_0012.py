@@ -6,21 +6,5 @@ if numero1 < numero2 < numero3:
     print('MENOR =', numero1)
 elif numero2 < numero1 < numero3:
     print('MENOR =', numero2)
-elif numero3 < numero1 < numero2:
+else:
     print('MENOR =', numero3)
-elif numero1 == numero2:
-    print('MENOR =', numero1)
-elif numero1 == numero3:
-    print('MENOR =', numero1)
-elif numero2 == numero1:
-    print('MENOR =', numero2)
-elif numero2 == numero3:
-    print('MENOR =', numero2)
-elif numero3 == numero1:
-    print('MENOR =', numero1)
-elif numero3 == numero2:
-    print('MENOR =', numero3)
-
-
-
-
